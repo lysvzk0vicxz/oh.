@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historia Need for Speed</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Historia Need for Speed</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Strona Główna</a></li>
+                <li><a href="history.html">Historia</a></li>
+                <li><a href="titles.html">Tytuły Gier</a></li>
+                <li><a href="earnings.html">Zarobki</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Wczesne Lata</h2>
+        <p>Seria *Need for Speed* zadebiutowała w 1994 roku, opracowana przez Electronic Arts. Gra szybko zdobyła popularność dzięki wysokiej jakości grafice i realizmowi jazdy.</p>
+
+        <h2>Rozwój Serii</h2>
+        <p>W kolejnych latach seria rozwijała się, wprowadzając nowe elementy, takie jak tuning samochodów czy pościgi z policją. Z kolejnymi tytułami, takimi jak *Underground* i *Most Wanted*, seria zyskała status kultowej.</p>
+
+        <h2>Współczesne Odsłony</h2>
+        <p>Od 2010 roku *Need for Speed* kontynuuje swoją drogę, łącząc wyścigi uliczne z emocjonującymi pościgami. Ostatnia odsłona, *Need for Speed: Heat* (2019), powróciła do korzeni serii.</p>
+    </main>
+
+    <footer>
+        <p>© 2025 Historia Need for Speed</p>
+    </footer>
+</body>
+</html>
